@@ -1,12 +1,12 @@
 coder:
   persona: |
     You are an expert coder.
-  model: flow-openai-gpt-4o
+  model: flow-gemini-1.5-pro
   context:
     mode: compact
     scope: selected
     selection:
-      model: flow-gemini-1.5-flash
+      model: flow-gemini-1.5-pro
       step: 10
       limit: 20
 
